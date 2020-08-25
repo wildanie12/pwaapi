@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Whip-tailed wallaby","category":"Aquamarine"},
+{"id":2,"name":"Sociable weaver","category":"Goldenrod"},
+{"id":3,"name":"Spotted-tailed quoll","category":"Indigo"},
+{"id":4,"name":"Weaver, chestnut","category":"Aquamarine"},
+{"id":5,"name":"Dove, laughing","category":"Fuscia"},
+{"id":6,"name":"Blue-tongued lizard","category":"Yellow"},
+{"id":7,"name":"Mongoose, yellow","category":"Blue"},
+{"id":8,"name":"South African hedgehog","category":"Green"},
+{"id":9,"name":"Rose-ringed parakeet","category":"Fuscia"},
+{"id":10,"name":"Two-banded monitor","category":"Turquoise"},
+{"id":11,"name":"Hyena, striped","category":"Puce"},
+{"id":12,"name":"Water legaan","category":"Turquoise"},
+{"id":13,"name":"Deer, barasingha","category":"Purple"},
+{"id":14,"name":"Pronghorn","category":"Orange"},
+{"id":15,"name":"Pie, rufous tree","category":"Aquamarine"},
+{"id":16,"name":"Salmon, sockeye","category":"Violet"},
+{"id":17,"name":"Sally lightfoot crab","category":"Blue"},
+{"id":18,"name":"Ibis, puna","category":"Indigo"},
+{"id":19,"name":"Turkey, australian brush","category":"Yellow"},
+{"id":20,"name":"Dolphin, striped","category":"Pink"}
+]
+}
